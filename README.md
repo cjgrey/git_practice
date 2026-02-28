@@ -1,13 +1,16 @@
 # git_practice
 
-## What I practiced:
+## What I have practiced here:
 - adding files
 - editing files
 - staging changes
 - deleting files
 - commits
-- pushing changes 
+- git diffs
+- pushing changes
+- create and add file to .gitignore
+- remove file from git tracking 
 
-## Status
-Practice Ongoing
+## Practice status:
+Ongoing
 
